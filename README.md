@@ -83,7 +83,6 @@ cm_display.plot()
 plt.show()
 ```
 ## Output:
-
 <img width="1108" height="893" alt="image" src="https://github.com/user-attachments/assets/ca26cca1-f094-4583-a8a2-0c575f35efa0" />
 
 ## Result:
