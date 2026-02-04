@@ -84,13 +84,7 @@ plt.show()
 ```
 ## Output:
 
-<img width="360" height="58" alt="Screenshot 2026-02-04 092121" src="https://github.com/user-attachments/assets/6f9efbea-ed7e-474e-acaf-51d2596dcfb3" />
-
-<img width="312" height="108" alt="Screenshot 2026-02-04 092129" src="https://github.com/user-attachments/assets/a1d85bc6-73b1-4718-b9af-3ac92cb26974" />
-
-<img width="798" height="282" alt="Screenshot 2026-02-04 092145" src="https://github.com/user-attachments/assets/7b273748-a524-4572-9154-721cc5dd862a" />
-
-<img width="1029" height="636" alt="Screenshot 2026-02-04 092200" src="https://github.com/user-attachments/assets/32c36ee0-68a7-4384-b5c8-e8074bfcb552" />
+<img width="1108" height="893" alt="image" src="https://github.com/user-attachments/assets/ca26cca1-f094-4583-a8a2-0c575f35efa0" />
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
